@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Toolbar Button Edit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="General" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Export" transform="translate(-88.000000, -276.000000)" fill="#000000">
+            <path d="M98.625,295.25 L96,295.25 L96,292.625 L98.625,295.25 L98.625,295.25 Z M108.25,285.625 L99.5,294.375 L96.875,291.75 L105.625,283 L108.25,285.625 Z M96,297 L96,296 L106,296 L106,297 L96,297 Z" id="Edit"></path>
+        </g>
+    </g>
+</svg>

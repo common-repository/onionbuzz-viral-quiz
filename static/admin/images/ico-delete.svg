@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Toolbar Button Delete</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="General" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Export" transform="translate(-50.000000, -276.000000)" fill="#000000">
+            <path d="M66,284 C66,283.522667 65.4624,283 65,283 L62,283 C61.5376,283 61,283.522667 61,284 L61,285 L58,285 L58,287 L59,287 L59,296 C59.2,296.477333 59.7376,297 60,297 L67,297 C67.2624,297 67.8,296.477333 68,296 L68,287 L69,287 L69,285 L66,285 L66,284 L66,284 Z M62,284 L65,284 L65,285 L62,285 L62,284 L62,284 Z M62,288 L61,288 L61,295 L62,295 L62,288 L62,288 Z M64,288 L63,288 L63,295 L64,295 L64,288 L64,288 Z M66,288 L65,288 L65,295 L66,295 L66,288 L66,288 Z" id="Delete"></path>
+        </g>
+    </g>
+</svg>

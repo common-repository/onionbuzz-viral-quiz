@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OnionBuzz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-30 12:27+0000\n"
+"PO-Revision-Date: 2017-08-30 12:27+0000\n"
+"Last-Translator: admin <tashuvlad@gmail.com>\n"
+"Language-Team: Russian\n"
+"Language: ru-RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: src/Frontend/Frontend.php:101
+msgid "Score:"
+msgstr "Очки:"
+
+#. Name of the plugin
+msgid "OnionBuzz"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"OnionBuzz provides entertaining, viral content and quizzes worth sharing "
+"with friends. We are focused on community-based and powerful buzz tools for "
+"our audience."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://onionbuzz.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Looks Awesome"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://looks-awesome.com/"
+msgstr ""
+
+#: src/Frontend/Frontend.php:88
+msgid "Correct!"
+msgstr "Правильно!"
+
+#: src/Frontend/Frontend.php:89
+msgid "Wrong!"
+msgstr "Неправильно!"
+
+#: src/Frontend/Frontend.php:90
+msgid "Question"
+msgstr "Вопрос"
+
+#: src/Frontend/Frontend.php:91
+msgid "Slide"
+msgstr "Слайд"
+
+#: src/Frontend/Frontend.php:92
+msgid ""
+"Thank you, your sign-up request was successful! Please check your e-mail "
+"inbox."
+msgstr "Спасибо, подписка прошла успешно! Пожалуйста, проверьте Вашу почту."
+
+#: src/Frontend/Frontend.php:93
+msgid "Enter valid email."
+msgstr "Введите правильный емаил."
+
+#: src/Frontend/Frontend.php:94
+msgid "I got"
+msgstr "Я получил"
+
+#: src/Frontend/Frontend.php:95
+msgid "of"
+msgstr "из"
+
+#: src/Frontend/Frontend.php:96
+msgid "right"
+msgstr "правильных"
+
+#: src/Frontend/Frontend.php:97
+msgid "You checked"
+msgstr "Вы отметили"
+
+#: src/Frontend/Frontend.php:98
+msgid "I checked"
+msgstr "Я отметил"
+
+#: src/Frontend/Frontend.php:99
+msgid "out of"
+msgstr "из"
+
+#: src/Frontend/Frontend.php:100
+msgid "on this list!"
+msgstr "в списке!"
+
+#: templates/frontend/templates/quiz-shortcode-slider.php:57
+#, php-format
+msgid "Question %1$s of %2$s."
+msgstr "Вопрос %1$s из %2$s."
+
+#: templates/frontend/templates/quiz-shortcode-slider.php:61
+#, php-format
+msgid "Slide %1$s of %2$s."
+msgstr "Слайд %1$s из %2$s."
+
+#: templates/frontend/templates/quiz-shortcode-slider.php:140
+#: templates/frontend/templates/quiz-shortcode.php:124
+msgid "GUESS"
+msgstr "ПРОВЕРИТЬ"
+
+#: templates/frontend/templates/quiz-shortcode-slider.php:142
+#: templates/frontend/templates/quiz-shortcode.php:126
+msgid "I give up"
+msgstr "Я сдаюсь"
+
+#: templates/frontend/templates/quiz-shortcode-slider.php:209
+msgid "Next question 1"
+msgstr "Следующий вопрос 1"
+
+#: templates/frontend/templates/quiz-shortcode-slider.php:209
+#: templates/frontend/templates/quiz-shortcode-slider.php:212
+#, php-format
+msgid "of %d"
+msgstr "из %d"
+
+#: templates/frontend/templates/quiz-shortcode-slider.php:212
+msgid "Next slide 1"
+msgstr "Следующий слайд 1"
+
+#: templates/frontend/templates/quiz-shortcode-slider.php:221
+msgid "Play"
+msgstr "Начать"
+
+#: templates/frontend/templates/quiz-shortcode-slider.php:224
+msgid "Start"
+msgstr "Старт"
+
+#: templates/frontend/templates/quiz-shortcode-slider.php:226
+#: templates/frontend/templates/quiz-shortcode-slider.php:302
+msgid "Start Over"
+msgstr "Начать сначала"
+
+#: templates/frontend/templates/quiz-shortcode-slider.php:228
+#: templates/frontend/templates/quiz-shortcode.php:183
+msgid "Show results!"
+msgstr "Показать результат!"
+
+#: templates/frontend/templates/quiz-shortcode-slider.php:230
+msgid "Next"
+msgstr "Следующий"
+
+#: templates/frontend/templates/quiz-shortcode-slider.php:250
+#: templates/frontend/templates/quiz-shortcode.php:199
+#, php-format
+msgid "All %d questions completed!"
+msgstr "Все %d вопросов завершены!"
+
+#: templates/frontend/templates/quiz-shortcode-slider.php:267
+#: templates/frontend/templates/quiz-shortcode.php:211
+msgid "Share results:"
+msgstr "Поделиться результатом:"
+
+#: templates/frontend/templates/quiz-shortcode-slider.php:299
+#: templates/frontend/templates/quiz-shortcode.php:242
+msgid "Replay"
+msgstr "Заново"
+
+#: templates/frontend/templates/quiz-shortcode-slider.php:339
+#: templates/frontend/templates/quiz-shortcode.php:278
+msgid "Your Email"
+msgstr "Ваш e-mail"
